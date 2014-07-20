@@ -1,5 +1,4 @@
-dropitlike
-==========
+##dropitlike
 
 ###Drop It Like It's Hot: Radical OpSec for Investigative Journalists
 
